@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 package problem327;
 
 class Solution {
